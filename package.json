@@ -1,0 +1,13 @@
+{
+    "name": "tetris-game",
+    "version": "1.0.0",
+    "description": "Basit Tetris Oyunu",
+    "main": "tetris.js",
+    "scripts": {
+        "start": "live-server --port=5500",
+        "debug": "live-server --port=5500 --no-browser"
+    },
+    "devDependencies": {
+        "live-server": "^1.2.1"
+    }
+}
